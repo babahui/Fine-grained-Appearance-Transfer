@@ -1,6 +1,3 @@
-![Python >=3.5](https://img.shields.io/badge/Python->=3.5-yellow.svg)
-![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.6-blue.svg)
-
 # Fine-grained Appearance Transfer with Diffusion Models
 
 The *official* repository for Fine-grained Appearance Transfer with Diffusion Models.
@@ -10,7 +7,9 @@ The *official* repository for Fine-grained Appearance Transfer with Diffusion Mo
 
 ## Fine-grained Appearance Transfer
 
-![framework](figs/teaser.png)
+![framework](figs/teaser_1.gif) 
+
+![framework](figs/teaser_2.gif)
 
 The results of fine-grained appearance transfer using our method. The leftmost column displays the source images. On the right, the output images achieved by detailed appearance transfer corresponding to the target images (outlined in black), while preserving structural integrity. The examples at the bottom demonstrate our method's capability to transfer across various domains and categories.
 
